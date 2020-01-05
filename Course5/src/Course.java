@@ -11,6 +11,7 @@ public class Course {
         System.out.println(Arrays.toString(array));
 
     }
+//二分查找
     public static int binarySearch(int[] arr,int x){
         int left = 0;
         int right = arr.length-1;
